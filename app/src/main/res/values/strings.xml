@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MateriasPromedio</string>
+    <string name="txtViewResultado">Estado del alumno</string>
+    <string name="notaMatematicas">Nota Matematicas</string>
+    <string name="notaAlgebra">Nota Algebra</string>
+    <string name="notaFisica">Nota Fisica</string>
+    <string name="notaQuimica">Nota Quimica</string>
+    <string name="resultado">Resultado</string>
 </resources>
